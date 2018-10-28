@@ -1,2 +1,2 @@
 # openfly
-An open source Light Sport Aircraft or versatile UAV project
+An open source LSA (light sport aircraft) or versatile UAV project
