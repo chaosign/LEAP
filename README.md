@@ -1,2 +1,2 @@
 # openfly
-An open source light sport aircraft
+An open source Light Sport Aircraft project
