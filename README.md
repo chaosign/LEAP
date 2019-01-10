@@ -1,2 +1,2 @@
 # Wooden Horse
-Wooden Horse is an open source light sport aircraft (LSA) project
+Wooden Horse is an open source Light Sport Aircraft (LSA) project
