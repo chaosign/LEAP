@@ -1,2 +1,2 @@
-# openfly
-An open source LSA (light sport aircraft) project
+# Wooden Horse
+Wooden Horse is an open source light sport aircraft (LSA) project
