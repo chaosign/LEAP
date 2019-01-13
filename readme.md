@@ -1,2 +1,2 @@
-# Wooden Horse *open source LSA*
-Wooden Horse is an open source Light Sport Aircraft (LSA) project founded by Ian Winds.
+# Life Edge Aircraft Project
+LEAP is an open source Light Sport Aircraft (LSA) project founded by Ian Winds.
