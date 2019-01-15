@@ -1,4 +1,6 @@
 # 力派 （Leap）*开源飞机项目*
+
+LEAP —— Life Edge Aircraft Project
 [力派] 是由飞机设计师 文子 发起的开源轻型运动飞机项目之一。 
 
 ## 目标
