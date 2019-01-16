@@ -1,3 +1,4 @@
+[中文](https://github.com/chaosign/LEAP/blob/master/readme.md)
 # LEAP Open Source LSA Project #
 
 
