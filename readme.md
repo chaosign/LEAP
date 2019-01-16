@@ -20,13 +20,14 @@ LEAP —— Life Edge Aircraft Project
 
 ## 文件夹说明
 力派 飞机项目 托管在 GitHub 上，文本文档使用英文和汉语两种语言。
-- chinese          平行中文文档
-+ design           飞机总体设计文档
-- modeling         飞机三维模型文件
-+ engineering      项目工程文件
-- knowledge        相关知识、法规等
-+ similar_lsa      参考机型
-- others           其他
+- chinese             平行中文文档
++ design              飞机总体设计文档
+- modeling            飞机三维模型文件
++ engineering         项目工程文件
+- knowledge           相关知识、法规等
++ similar_lsa         参考机型\顶级lsa
+- others              其他
++ upload_by_members   上传你的图片和视频等
 
 ## 如何加入
 除了飞机和飞行所需的知识，您仅仅还需要
