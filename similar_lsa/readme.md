@@ -7,7 +7,7 @@
 <img src="./0727_MVP7.jpg" width = "880"/><img src="./109637538.jpg" width = "440"/><img src="./IMG_44481-1024x683.jpg" width = "440"/>
 <img src="./Aero-MVP.jpg" width = "880"/>
 ## [Vickers Wave](https://www.vickersaircraft.com/) ##
-<img src="./mvp.png" width = "880"/><img src="./6.jpg" width = "440"/><img src="./sideview.jpg" width = "440"/><img src="./013.jpg" width = "440"/>
+<img src="./mvp.png" width = "880"/><img src="./6.jpg" width = "440"/><img src="./sideview.jpg" width = "440"/>
 ## [Icon A5](https://www.iconaircraft.com/) ##
 <img src="./_Y9A4780-3000x2000.jpg" width = "880"/><img src="./_Y9A6188-HDR-2-3000x2000.jpg" width = "440"/><img src="./WING4545-3000x2000.jpg" width = "440"/><img src="./A5.jpg" width = "440"/><img src="./p18hifl5tvfvsibj1ir913d3nurc.jpg" width = "440"/>
 <img src="./front-quarter-wingfold-hero-shot-front-3000x2000.jpg" width = "880"/>
