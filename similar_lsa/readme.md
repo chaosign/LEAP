@@ -10,4 +10,4 @@
 
 ## [Icon A5](https://www.iconaircraft.com/) ##
 <img src="./_Y9A4780-3000x2000.jpg" width = "880"/><img src="./_Y9A6188-HDR-2-3000x2000.jpg" width = "440"/><img src="./WING4545-3000x2000.jpg" width = "440"/>
-<img src="./front-quarter-wingfold-hero-shot-front-" width = "880"/>
+<img src="./front-quarter-wingfold-hero-shot-front-3000x2000.jpg" width = "880"/>
