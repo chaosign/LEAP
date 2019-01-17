@@ -1,4 +1,4 @@
-# The Most Exiting LSAs Ever #
+# The Most Exiting Amphibious Seaplanes Ever #
 ## [Equator P2 Xcursion](https://www.equatoraircraft.com/) ##
 <img src="./193828.png" width = "880"/><img src="./052A4065m.jpg" width = "440"/><img src="./052A4205m.jpg" width = "440"/>
 ## [Lisa](http://lisa-airplanes.com/) ##
