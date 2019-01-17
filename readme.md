@@ -1,6 +1,6 @@
 [English](https://github.com/chaosign/LEAP/blob/master/readme_en.md)
 # 力派 （Leap）*开源飞机项目*
-<img src="./leap.png" width = "880"/>
+<img src="./leap.png" width = "1000"/>
 
 LEAP —— Life Edge Aircraft Project
 【力派】 是由飞机设计师 文子 倡导发起的开源轻型运动飞机项目。 我们试图用 **开源、航空规范 、协同、创新** 等观念，去代替 自制、冒险、个人英雄主义、经典 之类的表述，从而传递我们的飞行哲学。电视里自制飞机翱翔蓝天的新闻，随时间推移，已成往事，按图造飞机也不再是稀罕事儿。同样地，我们可以把 钢管 换成 复材，把 “DIY创客” 的草莽情怀，增添一些 适航探索 的科学本色。
