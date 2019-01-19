@@ -8,8 +8,8 @@
 <img src="./mvp-5.jpg" width = "440"/><img src="./mvp-6.jpg" width = "440"/>
 <img src="./mvp-2.jpg" width = "880"/>
 ## [Vickers Wave](https://www.vickersaircraft.com/) ##
-<img src="./vickers-0.png" width = "880"/><img src="./vickers-2" width = "440"/><img src="./vickers-1" width = "440"/>
-<img src="./vickers-3" width = "880"/>
+<img src="./vickers-0.png" width = "880"/><img src="./vickers-2.jpg" width = "440"/><img src="./vickers-1.jpg" width = "440"/>
+<img src="./vickers-3.jpg" width = "880"/>
 ## [Icon A5](https://www.iconaircraft.com/) ##
 <img src="./a5-3.jpg" width = "880"/><img src="./a5-1.jpg" width = "440"/><img src="./a5-2.jpg" width = "440"/><img src="./a5-4.jpg" width = "440"/><img src="./a5-5.jpg" width = "440"/>
 <img src="./front-quarter-wingfold-hero-shot-front-3000x2000.jpg" width = "880"/>
