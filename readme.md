@@ -32,7 +32,7 @@ LEAP —— Life Edge Aircraft Project
 
 ## 如何加入
 除了飞机和飞行所需的知识，您仅仅还需要
-- 学一点[GitHub使用技巧](https://blog.csdn.net/kabulore/article/details/51801337)
+- 学一点[GitHub使用技巧](https://guides.github.com/activities/hello-world/)
 + 注册一个GitHub账户
 - 加入“飞行-从织梦到翱翔” QQ 群，向群主提交申请
 便可开启您的飞行织梦之旅。
