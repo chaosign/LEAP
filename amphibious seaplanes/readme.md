@@ -1,6 +1,6 @@
 # The Most Exiting Amphibious Seaplanes Ever #
 ## [Equator P2 Xcursion](https://www.equatoraircraft.com/) ##
-<img src="./p2-0.png" width = "880"/><img src="./p2-1.jpg" width = "440"/><img src="./p2-2.jpg" width = "440"/>
+<img src="./p2-0.png" width = "880"/><img src="./p2-2.jpg" width = "440"/><img src="./p2-1.jpg" width = "440"/>
 ## [Lisa](http://lisa-airplanes.com/) ##
 <img src="./lisa-1.jpg" width = "880"/><img src="./lisa-2.jpg" width = "440"/><img src="./lisa-3.jpg" width = "440"/><img src="./lisa-4.jpg" width = "880"/><img src="./lisa-5.jpg" width = "880"/>
 ## [MVP](https://www.mvp.aero/) ##
