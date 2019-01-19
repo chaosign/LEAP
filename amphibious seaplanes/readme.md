@@ -12,4 +12,4 @@
 <img src="./vickers-3.jpg" width = "880"/>
 ## [Icon A5](https://www.iconaircraft.com/) ##
 <img src="./a5-3.jpg" width = "880"/><img src="./a5-1.jpg" width = "440"/><img src="./a5-2.jpg" width = "440"/><img src="./a5-4.jpg" width = "440"/><img src="./a5-5.jpg" width = "440"/>
-<img src="./front-quarter-wingfold-hero-shot-front-3000x2000.jpg" width = "880"/>
+<img src="./a5-6.jpgg" width = "880"/>
