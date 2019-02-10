@@ -16,7 +16,7 @@ LEAP —— Life Edge Aircraft Project
 + 微信群：
 - 微信公众号：
 + 项目托管空间： https://github.com/chaosign/leap
-// - 项目官网：http://www.chaosign.com/ 
+@ - 项目官网：http://www.chaosign.com/ 
 
 
 ## 文件夹说明
