@@ -1,4 +1,4 @@
-[English](https://github.com/chaosign/LEAP/readme_en.md)
+[English](https://github.com/chaosign/LEAP//blob/master/readme_en.md)
 # 力派 （Leap）*开源飞机项目*
 <img src="./leap.png" width = "1000"/>
 
