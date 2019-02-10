@@ -5,3 +5,4 @@
 LEAP is an open source Light Sport Aircraft (LSA) project founded by Ian Winds.
 
 LEAP —— **L**ife **E**dge **A**ircraft **P**roject
+<img src="./leap.png" width = "1000"/>
