@@ -1,6 +1,6 @@
 # The Most Exiting Bushplanes Ever #
 ## [Justaircraft](https://justaircraft.com/) ##
-<img src="./p2-0.png" width = "880"/><img src="./p2-2.jpg" width = "440"/><img src="./p2-1.jpg" width = "440"/>
+<img src="./just-4.jpg" width = "880"/><img src="./just-7.jpg" width = "440"/><img src="./just-1.jpg" width = "440"/><img src="./just-3.jpg" width = "440"/><img src="./just-5.jpg" width = "440"/><img src="./just-2.jpg" width = "440"/><img src="./just-6.jpg" width = "440"/>
 ## [Cubcrafters](http://cubcrafters.com/) ##
 <img src="./cubcrafters-5.jpg" width = "880"/><img src="./cubcrafters-2.jpg" width = "440"/><img src="./cubcrafters-4.jpg" width = "440"/><img src="./cubcrafters-6.jpg" width = "440"/><img src="./cubcrafters-1.jpg" width = "440"/><img src="./cubcrafters-3.jpg" width = "880"/><img src="./cubcrafters-7.jpg" width = "880"/>
 ## [MVP](https://www.mvp.aero/) ##
