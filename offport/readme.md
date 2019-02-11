@@ -8,4 +8,4 @@
 ## [Zlin](https://zlinaero.com/) ##
 <img src="./zlin6.jpg" width = "880"/><img src="./zlin1.jpg" width = "440"/><img src="./zlin5.jpg" width = "440"/><img src="./zlin8.jpg" width = "440"/><img src="./zlin7.jpg" width = "440"/><img src="./zlin2.jpg" width = "440"/><img src="./zlin4.jpg" width = "440"/><img src="./zlin3.jpg" width = "880"/>
 ## [Legend](https://legend.aero/) ##
-<img src="./a5-3.jpg" width = "880"/><img src="./a5-0.jpg" width = "440"/><img src="./a5-2.jpg" width = "440"/><img src="./a5-4.jpg" width = "440"/><img src="./a5-5.jpg" wid<img src="./z.jpg" width = "440"/><img src="./.jpg" width = "440"/>th = "440"/><img src="./a5-6.jpg" width = "880"/>
+<img src="./legend1.jpg" width = "880"/><img src="./legend2.jpg" width = "440"/><img src="./legend3.jpg" width = "440"/><img src="./legend4.jpg" width = "440"/><img src="./legend5.jpg" width = "440"/>
