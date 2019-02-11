@@ -26,7 +26,9 @@ LEAP —— Life Edge Aircraft Project
 - modeling            飞机三维模型文件
 + engineering         项目工程文件
 - knowledge           相关知识、法规等
-+ similar_lsa         参考机型\顶级lsa
++ seaplanes           参考的 水上飞机
+- offport             参考的 越野飞机
++ flyschool           飞行学校
 - others              其他
 + upload_by_members   上传你的图片和视频等
 
