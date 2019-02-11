@@ -1,10 +1,10 @@
 # The Most Exiting Amphibious Seaplanes Ever #
-## [Justaircraft](https://justaircraft.com/) ##
+## [Equator P2 Xcursion](https://equatoraircraft.com/) ##
 <img src="./p2-0.png" width = "880"/><img src="./p2-2.jpg" width = "440"/><img src="./p2-1.jpg" width = "440"/>
 ## [Lisa](http://lisa-airplanes.com/) ##
 <img src="./lisa-1.jpg" width = "880"/><img src="./lisa-2.jpg" width = "440"/><img src="./lisa-3.jpg" width = "440"/><img src="./lisa-4.jpg" width = "880"/><img src="./lisa-5.jpg" width = "880"/>
 ## [MVP](https://www.mvp.aero/) ##
-<img src="./mvp-4.jpg" width = "880"/><img src="./mvp-3.jpg" width = "440"/><img src="./mvp-1.jpg" width = "440"/><img src="./mvp-5.jpg" width = "440"/><img src="./mvp-6.jpg" width = "440"/><img src="./mvp-2.jpg" width = "880"/>
+<img src="./mvp-https://equatoraircraft.com/4.jpg" width = "880"/><img src="./mvp-3.jpg" width = "440"/><img src="./mvp-1.jpg" width = "440"/><img src="./mvp-5.jpg" width = "440"/><img src="./mvp-6.jpg" width = "440"/><img src="./mvp-2.jpg" width = "880"/>
 ## [Vickers Wave](https://www.vickersaircraft.com/) ##
 <img src="./vickers-0.png" width = "880"/><img src="./vickers-2.jpg" width = "440"/><img src="./vickers-1.jpg" width = "440"/><img src="./vickers-3.jpg" width = "880"/>
 ## [Icon A5](https://www.iconaircraft.com/) ##
