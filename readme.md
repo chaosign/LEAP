@@ -4,7 +4,7 @@
 
 LEAP is for 'Life Edge Aircraft Project'
 
-LEAP is an open source light sport aircraft project initiated by Ian winds.
+LEAP is an open source light sport aircraft project initiated by [Ian winds](https://github.com/Ianwinds).
 We are Developping **safe, cool, affordable, opensource** sport entertainment aircrafts. First, 
 a short takeoff and landing bushplane | an amphibious seaplane.
 
