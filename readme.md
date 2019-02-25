@@ -15,16 +15,16 @@ Any individual or organization can participate in the project, contribute to the
 
 ## Folder
 LEAP is hosted by GitHub in English and Chinese.
-- chinese             chinese documentations
-+ design              primary designing documentations
-- modeling            3d modeling 
-+ engineering         engineering documentations
-- knowledge           related knowledge and rules
-+ seaplanes           referance prototypes
-- bushplanes          referance prototypes 
-+ flyschool           how to fly
-- others              other informations
-+ upload_by_members   uploaded photos & vedios
+- chinese             --chinese documentations
++ design              --primary designing documentations
+- modeling            --3d modeling 
++ engineering         --engineering documentations
+- knowledge           --related knowledge and rules
++ seaplanes           --referance prototypes
+- bushplanes          --referance prototypes 
++ flyschool           --how to fly
+- others              --other informations
++ upload_by_members   --uploaded photos & vedios
 
 ## Getting started
 - learn https://guides.github.com/activities/hello-world/
