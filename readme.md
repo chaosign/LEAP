@@ -8,7 +8,7 @@ LEAP is an open source light sport aircraft project initiated by [Ian winds](htt
 We are Developping **safe, cool, affordable, opensource** sport entertainment aircrafts. First, 
 a short takeoff and landing bushplane | an amphibious seaplane.
 
-Any individual or organization can participate in the project, contribute to the preparation, revision and translation of texts, contribute to the design, provide funds, sell or provide related products and services, and even participate in the construction and flight of aircraft
+Any individual or organization can participate in, and contribute to the preparation, revision and translation of texts, contribute to the design, provide funds, sell or provide related products and services, and even participate in the construction and flight of aircraft
 
 - QQ：935712655 
 + https://github.com/chaosign/leap
