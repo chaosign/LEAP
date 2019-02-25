@@ -1,5 +1,5 @@
 [中文](https://github.com/chaosign/LEAP//blob/master/readme_cn.md)
-# Leap Opensource Light Sport Aircraft Project*
+# Leap Opensource Light Sport Aircraft Project
 <img src="./leap.png" width = "1000"/>
 
 LEAP is for 'Life Edge Aircraft Project'
