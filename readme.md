@@ -27,7 +27,7 @@ LEAP —— Life Edge Aircraft Project
 + engineering         项目工程文件
 - knowledge           相关知识、法规等
 + seaplanes           参考的 水上飞机
-- offport             参考的 越野飞机
+- bushplanes          参考的 越野飞机
 + flyschool           飞行学校
 - others              其他
 + upload_by_members   上传你的图片和视频等
